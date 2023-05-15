@@ -3842,9 +3842,6 @@ Orbeetle
 #org @NAME_DREDNAW_GIGA
 Drednaw
 
-#org @NAME_COALOSSAL_GIGA
-Coalossal
-
 #org @NAME_FLAPPLE_GIGA
 Flapple
 
@@ -3863,23 +3860,47 @@ Toxtricity
 #org @NAME_CENTISKORCH_GIGA
 Centskorch
 
-#org @NAME_HATTERENE_GIGA
-Hatterene
-
-#org @NAME_GRIMMSNARL_GIGA
-Grimmsnarl
-
 #org @NAME_ALCREMIE_GIGA
 Alcremie
-
-#org @NAME_COPPERAJAH_GIGA
-Copperajah
-
-#org @NAME_DURALUDON_GIGA
-Duraludon
 
 #org @NAME_URSHIFU_SINGLE_GIGA
 Urshifu
 
 #org @NAME_URSHIFU_RAPID_GIGA
 Urshifu
+
+#org @NAME_CYCLIZAR
+Cyclizar
+
+#org @NAME_ANNIHILAPE
+Annihilape
+
+#org @NAME_FARIGIRAF
+Farigiraf
+
+#org @NAME_DUDUNSPARCE
+Dudunspace
+
+#org @NAME_KINGAMBIT
+Kingambit
+
+#org @NAME_ROARING_MOON
+RoarinMoon
+
+#org @NAME_IRON_VALIANT
+IrnValiant
+
+#org @NAME_KORAIDON
+Koraidon
+
+#org @NAME_MIRAIDON
+Miraidon
+
+#org @NAME_WALKING_WAKE
+WalkinWake
+
+#org @NAME_IRON_LEAVES
+IronLeaves
+
+#org @NAME_LUGIA_SHADOW
+Lugia
