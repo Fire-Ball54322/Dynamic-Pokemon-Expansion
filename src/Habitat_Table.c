@@ -134,7 +134,6 @@ const u16 gGrasslandPage16[] =
 const u16 gGrasslandPage17[] =
 {
 	SPECIES_KANGASKHAN,
-	SPECIES_GIRAFARIG,
 	SPECIES_TAUROS,
 	SPECIES_MILTANK,
 };
@@ -437,6 +436,13 @@ const u16 gGrasslandPage57[] =
 	SPECIES_BOLTUND,
 	SPECIES_MORPEKO,
 	SPECIES_MORPEKO_HANGRY,
+};
+
+const u16 gGrasslandPage58[] =
+{
+        SPECIES_GIRAFARIG,
+        SPECIES_FARIGIRAF,
+        SPECIES_CYCLIZAR,
 };
 
 const u16 gForestPage1[] =
@@ -1427,6 +1433,7 @@ const u16 gCavePage7[] =
 	SPECIES_MISDREAVUS,
 	SPECIES_MISMAGIUS,
 	SPECIES_DUNSPARCE,
+        SPECIES_DUDUNSPARCE,
 };
 
 const u16 gCavePage8[] =
@@ -1643,8 +1650,7 @@ const u16 gMountainPage3[] =
 {
 	SPECIES_MANKEY,
 	SPECIES_PRIMEAPE,
-	SPECIES_SPOINK,
-	SPECIES_GRUMPIG,
+        SPECIES_ANNIHILAPE,
 };
 
 const u16 gMountainPage4[] =
@@ -1765,6 +1771,8 @@ const u16 gMountainPage19[] =
 
 const u16 gMountainPage20[] =
 {
+        SPECIES_SPOINK,
+	SPECIES_GRUMPIG,
 	SPECIES_JIRACHI,
 };
 
@@ -2050,14 +2058,15 @@ const u16 gRoughTerrainPage20[] =
 {
 	SPECIES_YAMASK_G,
 	SPECIES_RUNERIGUS,
+        SPECIES_GOLETT,
+	SPECIES_GOLURK,
 };
 
 const u16 gRoughTerrainPage21[] =
 {
-	SPECIES_GOLETT,
-	SPECIES_GOLURK,
 	SPECIES_PAWNIARD,
 	SPECIES_BISHARP,
+        SPECIES_KINGAMBIT,
 };
 
 const u16 gRoughTerrainPage22[] =
@@ -2378,6 +2387,7 @@ const u16 gRarePage2[] =
 {
 	SPECIES_LUGIA,
 	SPECIES_HO_OH,
+        SPECIES_LUGIA_SHADOW,
 };
 
 const u16 gRarePage3[] =
@@ -2636,6 +2646,29 @@ const u16 gRarePage38[] =
 	SPECIES_CALYREX_SHADOW_RIDER,
 };
 
+const u16 gRarePage39[] =
+{
+	SPECIES_ROARING_MOON,
+	SPECIES_IRON_VALIANT,
+};
+
+const u16 gRarePage40[] =
+{
+	SPECIES_KORAIDON,
+	SPECIES_MIRAIDON,
+};
+
+const u16 gRarePage41[] =
+{
+	SPECIES_WALKING_WAKE,
+	SPECIES_IRON_LEAVES,
+};
+
+const u16 gRarePage42[] =
+{
+	SPECIES_MISSINGNO,
+};
+
 const struct HabitatPage gGrasslandPages[] =
 {
 	{gGrasslandPage1, ARRAY_COUNT(gGrasslandPage1)}, 
@@ -2694,7 +2727,8 @@ const struct HabitatPage gGrasslandPages[] =
 	{gGrasslandPage54, ARRAY_COUNT(gGrasslandPage54)}, 
 	{gGrasslandPage55, ARRAY_COUNT(gGrasslandPage55)}, 
 	{gGrasslandPage56, ARRAY_COUNT(gGrasslandPage56)}, 
-	{gGrasslandPage57, ARRAY_COUNT(gGrasslandPage57)}, 
+	{gGrasslandPage57, ARRAY_COUNT(gGrasslandPage57)},
+        {gGrasslandPage58, ARRAY_COUNT(gGrasslandPage58)}, 
 };
 
 const struct HabitatPage gForestPages[] =
@@ -3040,6 +3074,10 @@ const struct HabitatPage gRarePages[] =
 	{gRarePage36, ARRAY_COUNT(gRarePage36)},
 	{gRarePage37, ARRAY_COUNT(gRarePage37)},
 	{gRarePage38, ARRAY_COUNT(gRarePage38)},
+	{gRarePage39, ARRAY_COUNT(gRarePage39)},
+	{gRarePage40, ARRAY_COUNT(gRarePage40)},
+	{gRarePage41, ARRAY_COUNT(gRarePage41)},
+	{gRarePage42, ARRAY_COUNT(gRarePage42)},
 };
 
 const struct Habitat gHabitatPtrsTable[9] =

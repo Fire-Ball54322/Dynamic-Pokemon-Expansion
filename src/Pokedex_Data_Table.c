@@ -10887,6 +10887,162 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 		.trainerScale = 0,
 		.trainerOffset = 0,
 	},
+
+        [NATIONAL_DEX_CYCLIZAR] =
+	{
+		.categoryName = {_M, _o, _u, _n, _t, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
+		.height = 16,
+		.weight = 630,
+		.description = DEX_ENTRY_CYCLIZAR,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+        [NATIONAL_DEX_ANNIHILAPE] =
+	{
+		.categoryName = {_R, _a, _g, _e, _SPACE, _M, _o, _n, _k, _e, _y, _SPACE},
+		.height = 12,
+		.weight = 560,
+		.description = DEX_ENTRY_ANNIHILAPE,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+        [NATIONAL_DEX_FARIGIRAF] =
+	{
+		.categoryName = {_L, _o, _n, _g, _SPACE, _N, _e, _c, _k, _END, _SPACE, _SPACE},
+		.height = 32,
+		.weight = 1600,
+		.description = DEX_ENTRY_FARIGIRAF,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+        [NATIONAL_DEX_DUDUNSPARCE] =
+	{
+		.categoryName = {_L, _a, _n, _d, _SPACE, _S, _n, _a, _k, _e, _END, _SPACE},
+		.height = 36,
+		.weight = 392,
+		.description = DEX_ENTRY_DUDUNSPARCE,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+        [NATIONAL_DEX_KINGAMBIT] =
+	{
+		.categoryName = {_B, _i, _g, _SPACE, _B, _l, _a, _d, _e, _END, _SPACE, _SPACE},
+		.height = 20,
+		.weight = 1200,
+		.description = DEX_ENTRY_KINGAMBIT,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+        [NATIONAL_DEX_ROARING_MOON] =
+	{
+		.categoryName = {_P, _a, _r, _a, _d, _o, _x, _END, _SPACE, _SPACE, _SPACE, _SPACE},
+		.height = 20,
+		.weight = 3800,
+		.description = DEX_ENTRY_ROARING_MOON,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+        [NATIONAL_DEX_IRON_VALIANT] =
+	{
+		.categoryName = {_P, _a, _r, _a, _d, _o, _x, _END, _SPACE, _SPACE, _SPACE, _SPACE},
+		.height = 14,
+		.weight = 350,
+		.description = DEX_ENTRY_IRON_VALIANT,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+        [NATIONAL_DEX_KORAIDON] =
+	{
+		.categoryName = {_P, _a, _r, _a, _d, _o, _x, _END, _SPACE, _SPACE, _SPACE, _SPACE},
+		.height = 25,
+		.weight = 3030,
+		.description = DEX_ENTRY_KORAIDON,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+        [NATIONAL_DEX_MIRAIDON] =
+	{
+		.categoryName = {_P, _a, _r, _a, _d, _o, _x, _END, _SPACE, _SPACE, _SPACE, _SPACE},
+		.height = 35,
+		.weight = 2400,
+		.description = DEX_ENTRY_MIRAIDON,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+	
+	[NATIONAL_DEX_WALKING_WAKE] =
+	{
+		.categoryName = {_P, _a, _r, _a, _d, _o, _x, _END, _SPACE, _SPACE, _SPACE, _SPACE},
+		.height = 35,
+		.weight = 2800,
+		.description = DEX_ENTRY_WALKING_WAKE,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+	[NATIONAL_DEX_IRON_LEAVES] =
+	{
+		.categoryName = {_P, _a, _r, _a, _d, _o, _x, _END, _SPACE, _SPACE, _SPACE, _SPACE},
+		.height = 15,
+		.weight = 1250,
+		.description = DEX_ENTRY_IRON_LEAVES,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
+
+        [NATIONAL_DEX_MISSINGNO] =
+	{
+		.categoryName = {_U, _n, _k, _n, _o, _w, _n, _END, _SPACE, _SPACE, _SPACE, _SPACE},
+		.height = 30,
+		.weight = 15908,
+		.description = DEX_ENTRY_MISSINGNO,
+		.unusedDescription = (const u8*) 0x8444cb1,
+		.pokemonScale = 0,
+		.pokemonOffset = 0,
+		.trainerScale = 0,
+		.trainerOffset = 0,
+	},
 };
 
 //Certain Pokemon forms can have alternate dex entries when viewed
@@ -10984,6 +11140,7 @@ const struct AlternateDexEntries gAlternateDexEntries[] =
 	ALTERNATE_DEX_ENTRY(GOODRA_H),
 	ALTERNATE_DEX_ENTRY(AVALUGG_H),
 	ALTERNATE_DEX_ENTRY(DECIDUEYE_H),
+        ALTERNATE_DEX_ENTRY(LUGIA_SHADOW),
 	{SPECIES_TABLES_TERMIN, 0} 
 };
 
@@ -11011,5 +11168,6 @@ const struct AlternateDexEntries gAlternateDexCategories[] =
 	ALTERNATE_DEX_CATEGORY(BRAVIARY_H),
 	ALTERNATE_DEX_CATEGORY(SLIGGOO_H),
 	ALTERNATE_DEX_CATEGORY(GOODRA_H),
+        ALTERNATE_DEX_CATEGORY(LUGIA_SHADOW),
 	{SPECIES_TABLES_TERMIN, 0} 
 };
