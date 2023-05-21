@@ -10888,7 +10888,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 		.trainerOffset = 0,
 	},
 
-        [NATIONAL_DEX_CYCLIZAR] =
+    [NATIONAL_DEX_CYCLIZAR] =
 	{
 		.categoryName = {_M, _o, _u, _n, _t, _END, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 16,
@@ -10901,7 +10901,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 		.trainerOffset = 0,
 	},
 
-        [NATIONAL_DEX_ANNIHILAPE] =
+    [NATIONAL_DEX_ANNIHILAPE] =
 	{
 		.categoryName = {_R, _a, _g, _e, _SPACE, _M, _o, _n, _k, _e, _y, _SPACE},
 		.height = 12,
@@ -10914,7 +10914,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 		.trainerOffset = 0,
 	},
 
-        [NATIONAL_DEX_FARIGIRAF] =
+    [NATIONAL_DEX_FARIGIRAF] =
 	{
 		.categoryName = {_L, _o, _n, _g, _SPACE, _N, _e, _c, _k, _END, _SPACE, _SPACE},
 		.height = 32,
@@ -10927,7 +10927,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 		.trainerOffset = 0,
 	},
 
-        [NATIONAL_DEX_DUDUNSPARCE] =
+    [NATIONAL_DEX_DUDUNSPARCE] =
 	{
 		.categoryName = {_L, _a, _n, _d, _SPACE, _S, _n, _a, _k, _e, _END, _SPACE},
 		.height = 36,
@@ -10940,7 +10940,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 		.trainerOffset = 0,
 	},
 
-        [NATIONAL_DEX_KINGAMBIT] =
+    [NATIONAL_DEX_KINGAMBIT] =
 	{
 		.categoryName = {_B, _i, _g, _SPACE, _B, _l, _a, _d, _e, _END, _SPACE, _SPACE},
 		.height = 20,
@@ -10953,7 +10953,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 		.trainerOffset = 0,
 	},
 
-        [NATIONAL_DEX_ROARING_MOON] =
+    [NATIONAL_DEX_ROARING_MOON] =
 	{
 		.categoryName = {_P, _a, _r, _a, _d, _o, _x, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 20,
@@ -10966,7 +10966,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 		.trainerOffset = 0,
 	},
 
-        [NATIONAL_DEX_IRON_VALIANT] =
+    [NATIONAL_DEX_IRON_VALIANT] =
 	{
 		.categoryName = {_P, _a, _r, _a, _d, _o, _x, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 14,
@@ -10979,7 +10979,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 		.trainerOffset = 0,
 	},
 
-        [NATIONAL_DEX_KORAIDON] =
+    [NATIONAL_DEX_KORAIDON] =
 	{
 		.categoryName = {_P, _a, _r, _a, _d, _o, _x, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 25,
@@ -10992,7 +10992,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 		.trainerOffset = 0,
 	},
 
-        [NATIONAL_DEX_MIRAIDON] =
+    [NATIONAL_DEX_MIRAIDON] =
 	{
 		.categoryName = {_P, _a, _r, _a, _d, _o, _x, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 35,
@@ -11031,7 +11031,7 @@ const struct PokedexEntry gPokedexEntries[/*NATIONAL_DEX_COUNT*/] =
 		.trainerOffset = 0,
 	},
 
-        [NATIONAL_DEX_MISSINGNO] =
+    [NATIONAL_DEX_MISSINGNO] =
 	{
 		.categoryName = {_U, _n, _k, _n, _o, _w, _n, _END, _SPACE, _SPACE, _SPACE, _SPACE},
 		.height = 30,

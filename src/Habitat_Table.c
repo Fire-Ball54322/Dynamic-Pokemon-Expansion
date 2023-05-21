@@ -440,9 +440,9 @@ const u16 gGrasslandPage57[] =
 
 const u16 gGrasslandPage58[] =
 {
-        SPECIES_GIRAFARIG,
-        SPECIES_FARIGIRAF,
-        SPECIES_CYCLIZAR,
+    SPECIES_GIRAFARIG,
+    SPECIES_FARIGIRAF,
+    SPECIES_CYCLIZAR,
 };
 
 const u16 gForestPage1[] =
@@ -1433,7 +1433,7 @@ const u16 gCavePage7[] =
 	SPECIES_MISDREAVUS,
 	SPECIES_MISMAGIUS,
 	SPECIES_DUNSPARCE,
-        SPECIES_DUDUNSPARCE,
+    SPECIES_DUDUNSPARCE,
 };
 
 const u16 gCavePage8[] =
@@ -1650,7 +1650,7 @@ const u16 gMountainPage3[] =
 {
 	SPECIES_MANKEY,
 	SPECIES_PRIMEAPE,
-        SPECIES_ANNIHILAPE,
+    SPECIES_ANNIHILAPE,
 };
 
 const u16 gMountainPage4[] =
@@ -2058,7 +2058,7 @@ const u16 gRoughTerrainPage20[] =
 {
 	SPECIES_YAMASK_G,
 	SPECIES_RUNERIGUS,
-        SPECIES_GOLETT,
+    SPECIES_GOLETT,
 	SPECIES_GOLURK,
 };
 
@@ -2066,7 +2066,7 @@ const u16 gRoughTerrainPage21[] =
 {
 	SPECIES_PAWNIARD,
 	SPECIES_BISHARP,
-        SPECIES_KINGAMBIT,
+    SPECIES_KINGAMBIT,
 };
 
 const u16 gRoughTerrainPage22[] =
