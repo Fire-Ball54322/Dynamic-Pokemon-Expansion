@@ -6493,7 +6493,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
         [SPECIES_MIRAIDON] =
 	{
 		.size = 0x88,
-		.y_offset = 0x4,
+		.y_offset = 0x0,
 	}, 
 	[SPECIES_WALKING_WAKE] =
 	{
