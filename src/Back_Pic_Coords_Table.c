@@ -6310,47 +6310,47 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x0,
 		.y_offset = 0xe,
 	},
-    [SPECIES_CYCLIZAR] =
+	[SPECIES_CYCLIZAR] =
     {
 		.size = 0x76,
 		.y_offset = 0x7,
 	},
-    [SPECIES_ANNIHILAPE] =
+	[SPECIES_ANNIHILAPE] =
 	{
 		.size = 0x76,
 		.y_offset = 0x0,
 	},
-    [SPECIES_FARIGIRAF] =
+	[SPECIES_FARIGIRAF] =
 	{
 		.size = 0x87,
 		.y_offset = 0x0,
 	},
-    [SPECIES_DUDUNSPARCE] =
+	[SPECIES_DUDUNSPARCE] =
 	{
 		.size = 0x85,
 		.y_offset = 0xb,
 	},
-    [SPECIES_KINGAMBIT] =
+	[SPECIES_KINGAMBIT] =
 	{
 		.size = 0x88,
 		.y_offset = 0x0,
 	},
-    [SPECIES_ROARING_MOON] =
+	[SPECIES_ROARING_MOON] =
 	{
 		.size = 0x77,
 		.y_offset = 0x7,
 	},
-    [SPECIES_IRON_VALIANT] =
+	[SPECIES_IRON_VALIANT] =
 	{
 		.size = 0x77,
 		.y_offset = 0x0,
 	},
-    [SPECIES_KORAIDON] =
+	[SPECIES_KORAIDON] =
 	{
 		.size = 0x88,
 		.y_offset = 0x0,
 	}, 
-    [SPECIES_MIRAIDON] =
+	[SPECIES_MIRAIDON] =
 	{
 		.size = 0x88,
 		.y_offset = 0x0,
@@ -6360,12 +6360,12 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 		.size = 0x88,
 		.y_offset = 0x1,
 	},
-    [SPECIES_IRON_LEAVES] =
+	[SPECIES_IRON_LEAVES] =
 	{
 		.size = 0x66,
 		.y_offset = 0x0,
 	},
-    [SPECIES_LUGIA_SHADOW] =
+	[SPECIES_LUGIA_SHADOW] =
 	{
 		.size = 0x88,
 		.y_offset = 0x0,

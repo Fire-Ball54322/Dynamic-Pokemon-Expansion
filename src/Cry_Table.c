@@ -14840,7 +14840,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-    [SPECIES_CYCLIZAR] =
+	[SPECIES_CYCLIZAR] =
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -14852,7 +14852,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-    [SPECIES_ANNIHILAPE] =
+	[SPECIES_ANNIHILAPE] =
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -14864,7 +14864,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-    [SPECIES_FARIGIRAF] =
+	[SPECIES_FARIGIRAF] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -14876,7 +14876,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-    [SPECIES_DUDUNSPARCE] =
+	[SPECIES_DUDUNSPARCE] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
@@ -14888,7 +14888,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-    [SPECIES_KINGAMBIT] =
+	[SPECIES_KINGAMBIT] =
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -14900,7 +14900,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-    [SPECIES_ROARING_MOON] = 
+	[SPECIES_ROARING_MOON] = 
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -14912,7 +14912,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-    [SPECIES_IRON_VALIANT] = 
+	[SPECIES_IRON_VALIANT] = 
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -14924,7 +14924,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-    [SPECIES_KORAIDON] =
+	[SPECIES_KORAIDON] =
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -14936,7 +14936,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-    [SPECIES_MIRAIDON] =
+	[SPECIES_MIRAIDON] =
 	{	
 		.type = 0x20,
 		.key = 0x3c,
@@ -14972,7 +14972,7 @@ const struct ToneData gCryTable[NUM_SPECIES] =
 		.sustain = 0xff,
 		.release = 0x0,
 	},
-    [SPECIES_LUGIA_SHADOW] =
+	[SPECIES_LUGIA_SHADOW] =
 	{
 		.type = 0x20,
 		.key = 0x3c,
