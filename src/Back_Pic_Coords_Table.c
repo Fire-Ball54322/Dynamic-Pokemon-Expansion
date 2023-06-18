@@ -5406,7 +5406,7 @@ const struct MonCoords gMonBackPicCoords[NUM_SPECIES] =
 	[SPECIES_NECROZMA_DAWN_WINGS] =
 	{
 		.size = 0x0,
-		.y_offset = 0x2,
+		.y_offset = 0x0,
 	},
 	[SPECIES_NECROZMA_ULTRA] =
 	{
