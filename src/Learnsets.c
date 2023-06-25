@@ -3399,6 +3399,7 @@ static const struct LevelUpMove sMeganiumLevelUpLearnset[] = {
 	LEVEL_UP_MOVE(57, MOVE_AROMATHERAPY),
 	LEVEL_UP_MOVE(62, MOVE_SOLARBEAM),
 	LEVEL_UP_MOVE(68, MOVE_LEAFSTORM),
+	LEVEL_UP_MOVE(75, MOVE_FLEURCANNON),
 	LEVEL_UP_END
 };
 
@@ -9599,6 +9600,8 @@ static const struct LevelUpMove sChatotLevelUpLearnset[] = {
 };
 
 static const struct LevelUpMove sSpiritombLevelUpLearnset[] = {
+	LEVEL_UP_MOVE( 1, MOVE_RECOVER),
+	LEVEL_UP_MOVE( 1, MOVE_ASTONISH),
 	LEVEL_UP_MOVE( 1, MOVE_PURSUIT),
 	LEVEL_UP_MOVE( 1, MOVE_NIGHTSHADE),
 	LEVEL_UP_MOVE( 1, MOVE_CONFUSERAY),
@@ -9615,6 +9618,7 @@ static const struct LevelUpMove sSpiritombLevelUpLearnset[] = {
 	LEVEL_UP_MOVE(51, MOVE_DARKPULSE),
 	LEVEL_UP_MOVE(56, MOVE_HYPNOSIS),
 	LEVEL_UP_MOVE(60, MOVE_DREAMEATER),
+	LEVEL_UP_MOVE(67, MOVE_SHADOWFORCE),
 	LEVEL_UP_END
 };
 
